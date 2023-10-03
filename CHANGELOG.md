@@ -22,7 +22,6 @@ Change Log
 
 ### Changes
 
-- Remove support for CocoaPods and Carthage.
 - Update minimum Swift version to 5.4.
 - Break immediately when inflate exactly reaches the end of the buffer.
 
